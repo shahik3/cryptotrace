@@ -1,0 +1,1 @@
+This folder contains the Power BI template file and screenshots.
