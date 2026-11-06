@@ -1,1 +1,18 @@
+# Project data: never upload the dataset
+data/
+elliptic_txs_*.csv
 
+# Secrets: Databricks settings and tokens
+.databrickscfg
+.env
+
+# Power BI files can contain data
+*.pbix
+
+# Python junk files
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+;
+# Mac junk file
+.DS_Store
