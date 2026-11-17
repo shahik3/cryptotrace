@@ -16,3 +16,6 @@ __pycache__/
 
 # Mac junk file
 .DS_Store
+
+# Ignore all CSV files
+*.csv
